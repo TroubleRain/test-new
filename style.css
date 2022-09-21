@@ -1,0 +1,64 @@
+@import url("font.css");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  font-weight: 400;
+}
+body {
+  margin: 50px;
+}
+.wrapper {
+  padding: 61px 0 50px;
+  border: 1px solid #e8e8e8;
+}
+.title {
+  font-family: "Museo Sans Cyrl";
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 300;
+  color: #212121;
+  text-align: center;
+  margin-bottom: 35px;
+}
+.price {
+  font-family: "Museo Sans Cyrl";
+  font-size: 48px;
+  line-height: 20px;
+  font-weight: 500;
+  color: #5ba2a9;
+}
+.price-value {
+  font-family: "Museo Sans Cyrl";
+  font-size: 18px;
+  line-height: 20px;
+  font-weight: 300;
+  color: #5ba2a9;
+}
+.class {
+  margin-bottom: 50px;
+  text-align: center;
+}
+p {
+  font-family: "Museo Sans Cyrl";
+  font-size: 14px;
+  line-height: 1.2;
+  font-weight: 300;
+  color: #454545;
+  text-align: center;
+  text-align: center;
+}
+.button {
+  display: inline-block;
+  font-family: "Museo Sans Cyrl";
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #5a5a5a;
+  border: 2px solid #e8e8e8;
+  padding: 20px;
+  text-align: center;
+}
